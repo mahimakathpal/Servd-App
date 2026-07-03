@@ -287,7 +287,7 @@ ENCRYPTION_KEY=
 **Mahima Kathpal**
 
 - GitHub: https://github.com/mahimakathpal
-- LinkedIn: *(Add your LinkedIn URL here)*
+- LinkedIn: https://www.linkedin.com/in/mahima-kathpal-dev/
 
 ---
 
